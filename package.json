@@ -1,0 +1,9 @@
+{
+    "name": "jquery.autocomplete",
+    "version": "1.2.3",
+    "description": "A npm-packaged version of Jörn Zaefferer’s (now deprecated) jQuery autocomplete plugin, with tweaks by agarzola",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/CodeYellowBV/jQueryAutocompletePlugin.git"
+    }
+}
